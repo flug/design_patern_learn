@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_FlyWeight", "06_FlyWeight\06_FlyWeight.csproj", "{1AE80DC3-BA4E-4F4B-9059-05A76064417B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE80DC3-BA4E-4F4B-9059-05A76064417B}.Debug|x86.ActiveCfg = Debug|x86
+		{1AE80DC3-BA4E-4F4B-9059-05A76064417B}.Debug|x86.Build.0 = Debug|x86
+		{1AE80DC3-BA4E-4F4B-9059-05A76064417B}.Release|x86.ActiveCfg = Release|x86
+		{1AE80DC3-BA4E-4F4B-9059-05A76064417B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
